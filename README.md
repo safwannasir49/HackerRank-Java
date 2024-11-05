@@ -8,7 +8,9 @@
 </p>
 
 <br>
-# Java Practice Challenges
+
+
+# Description
 
 This repository contains a collection of Java challenges categorized by domain, with each problem focusing on different concepts and skills in Java programming. The challenges cover basics to advanced topics, providing solutions in Java.
 

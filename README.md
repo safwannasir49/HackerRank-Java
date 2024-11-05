@@ -16,7 +16,7 @@ This repository contains a collection of Java challenges categorized by domain, 
 
 ---
 ## Table of Contents
-   -[Introduction](#introduction)
+   - [Introduction](#introduction)
    - [Conditionals and Loops](#conditionals-and-loops)
    - [Strings](#strings)
    - [Data Structures](#data-structures)

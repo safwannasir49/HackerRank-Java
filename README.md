@@ -7,9 +7,18 @@
     <br>
 </p>
 
+
 <br>
 
+![Java](https://img.shields.io/badge/Language-Java-red?style=flat&logo=java)
 
+![Java](https://img.shields.io/badge/Java-Gold%205%20Star-F7C52F?style=for-the-badge&logo=java&logoColor=white)
+
+- ⭐⭐⭐⭐⭐ Gold Level  
+- 🎯 Points: 253
+- 🚀 Progressing steadily in Java mastery!
+  
+<br>
 # Description
 
 This repository contains a collection of Java challenges categorized by domain, with each problem focusing on different concepts and skills in Java programming. The challenges cover basics to advanced topics, providing solutions in Java.

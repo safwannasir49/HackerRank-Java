@@ -8,6 +8,14 @@
 </p>
 
 
+# Description
+
+This repository contains a collection of Java challenges categorized by domain, with each problem focusing on different concepts and skills in Java programming. The challenges cover basics to advanced topics, providing solutions in Java.
+
+<br>
+
+<br>
+
 <br>
 
 ![Java](https://img.shields.io/badge/Language-Java-red?style=flat&logo=java)
@@ -19,9 +27,6 @@
 - 🚀 Progressing steadily in Java mastery!
   
 <br>
-# Description
-
-This repository contains a collection of Java challenges categorized by domain, with each problem focusing on different concepts and skills in Java programming. The challenges cover basics to advanced topics, providing solutions in Java.
 
 ---
 ## Table of Contents
